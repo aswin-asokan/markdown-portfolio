@@ -1,1 +1,3 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+**Hi,I'm just a beginner in programming and all**
+
+_I've basic knowledge about working in **C,C++,Python and HTML**_
